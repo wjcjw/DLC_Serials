@@ -1,7 +1,7 @@
 [Compiler Options]
-Edit1=E:\工作\数字板程序\DLC_Serials\header
+Edit1=E:\工作\数字板程序\DLC_Serials\header;F:\数字板程序\DLC_Serials\header
 Edit2=
-Edit8=E:\工作\数字板程序\DLC_Serials\output\
+Edit8=F:\数字板程序\DLC_Serials\output\
 CheckBox1=0
 CheckBox2=1
 Edit3=

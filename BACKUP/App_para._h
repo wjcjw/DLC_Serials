@@ -1,4 +1,3 @@
-//shiyan
 #define HIGH_HV  803
 #if (HIGH_HV == 80)
 //设定最大值
